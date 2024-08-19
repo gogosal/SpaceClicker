@@ -1,0 +1,52 @@
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\bin\Debug\SpaceClicker.exe.config
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\bin\Debug\SpaceClicker.exe
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\bin\Debug\SpaceClicker.pdb
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.csproj.AssemblyReference.cache
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Form1.resources
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Properties.Resources.resources
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.csproj.GenerateResource.cache
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.csproj.CoreCompileInputs.cache
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.exe
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.pdb
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Forms.FormAutoClicker.resources
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Forms.FormSettings.resources
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Forms.FormClickTest.resources
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\bin\Debug\SpaceClicker.exe.config
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\bin\Debug\SpaceClicker.exe
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\bin\Debug\SpaceClicker.pdb
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.csproj.AssemblyReference.cache
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Form1.resources
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Forms.FormAutoClicker.resources
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Forms.FormClickTest.resources
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Forms.FormSettings.resources
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Properties.Resources.resources
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.csproj.GenerateResource.cache
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.csproj.CoreCompileInputs.cache
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.exe
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.pdb
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\bin\Debug\SpaceClicker.exe.config
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\bin\Debug\SpaceClicker.exe
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\bin\Debug\SpaceClicker.pdb
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.csproj.AssemblyReference.cache
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Form1.resources
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Forms.FormAutoClicker.resources
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Forms.FormClickTest.resources
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Forms.FormSettings.resources
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Properties.Resources.resources
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.csproj.GenerateResource.cache
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.csproj.CoreCompileInputs.cache
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.exe
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.pdb
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\bin\Debug\WindowsInput.dll
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\bin\Debug\WindowsInput.xml
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Forms.KeyClicker.resources
+C:\Users\gogof\OneDrive\Documents\Projects C#\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.csproj.CopyComplete
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\bin\Debug\WindowsInput.dll
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\bin\Debug\WindowsInput.xml
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Forms.KeyClicker.resources
+C:\Users\billz\Downloads\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.csproj.CopyComplete
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\bin\Debug\WindowsInput.dll
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\bin\Debug\WindowsInput.xml
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.Forms.KeyClicker.resources
+C:\Users\gogof\OneDrive\Ambiente de Trabalho\SpaceClicker\SpaceClicker\obj\Debug\SpaceClicker.csproj.CopyComplete
